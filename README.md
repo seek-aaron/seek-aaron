@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @seek-aaron
 - 👀 I’m interested in almost everything
-- 🌱 I’m currently learning everything i have opportunity to learn
-- 💞️ I prefer working alone.
 - ⚡ Fun fact: Energy cannot be created nor destroyed, only transform from one form to another.
 
 <!---
